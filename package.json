@@ -12,6 +12,10 @@
         "start": "npm run build && node scripts/start.js",
         "start:debug": "npm run build && node scripts/start-debug.js"
     },
+    "engines": {
+        "npm": ">= 9.1.2",
+        "yarn": "please-use-npm"
+    },
     "description": "Juan Carlos Farah's resume, built on the StartBootstrap Resume theme, a simple, yet elegant resume and CV theme for Bootstrap 4.",
     "keywords": [
         "css",
