@@ -1,6 +1,6 @@
 /*!
 * Start Bootstrap - Juan Carlos Farah's Resume v1.0.0 (https://juancarlosfarah.com)
-* Copyright 2013-2023 Juan Carlos Farah
+* Copyright 2013-2024 Juan Carlos Farah
 * Licensed under MIT (https://github.com/StartBootstrap/@juancarlosfarah/resume/blob/master/LICENSE)
 */
 //
